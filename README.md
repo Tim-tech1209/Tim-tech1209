@@ -12,4 +12,5 @@ As a newcomer to coding, the initial iterations might be rough around the edges,
 I'm committed to continuous learning and refinement.
 
 The goal is to evolve these projects into a comprehensive, portfolio-ready system that mirrors the architecture shown below.
-![app_demo](https://github.com/Tim-tech1209/Tim-tech1209/images/test_python_app.png)
+
+![app_demo](https://github.com/Tim-tech1209/Tim-tech1209/blob/main/images/test_python_app.drawio.png)
