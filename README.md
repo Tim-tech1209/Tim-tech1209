@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, this is Tim. 👋
 
-<!--
-**Tim-tech1209/Tim-tech1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently Working On: Building and automating cloud infrastructure on Azure.
+🌱 Currently Learning: Certificate AZ-305 & AZ-400.
 
-Here are some ideas to get you started:
+Welcome to my channel!
+This space documents my hands-on journey of building cloud infrastructure from the ground up.
+I'm combining IaC with coding best practices to create reproducible and scalable solutions on Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To thoroughly test my infrastructure, I'm also developing a companion Python application.
+As a newcomer to coding, the initial iterations might be rough around the edges, but each project is a step forward.
+I'm committed to continuous learning and refinement.
+
+The goal is to evolve these projects into a comprehensive, portfolio-ready system that mirrors the architecture shown below.
+![app_demo](https://github.com/Tim-tech1209/Tim-tech1209/images/test_python_app.png)
