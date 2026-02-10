@@ -1,6 +1,7 @@
 Hi, this is Tim. 👋
 
 🔭 Currently Working On: Building and automating cloud infrastructure on Azure.
+
 🌱 Currently Learning: Certificate AZ-305 & AZ-400.
 
 Welcome to my channel!
