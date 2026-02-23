@@ -2,7 +2,7 @@ Hi, this is Tim. 👋
 
 🔭 Currently Working On: Building and automating cloud infrastructure on Azure.
 
-🌱 Currently Learning: Certificate AZ-305 & AZ-400.
+🌱 Currently Learning: Certificate LPIC 305 & TOEIC.
 
 Welcome to my channel!
 This space documents my hands-on journey of building cloud infrastructure from the ground up.
