@@ -1,8 +1,24 @@
-Hi, this is Tim. 👋
+### Hi, this is Tim. 👋
 
-🔭 Currently Working On: Building and automating cloud infrastructure on Azure.
+##### 🔭 Currently Working On: Building and automating cloud infrastructure on Azure.
 
-🌱 Currently Learning: Certificate LPIC 305 & TOEIC.
+##### 🌱 Currently Learning: Certificate LPIC 305 & TOEIC.
+
+### This is what I have achieved last year:
+
+- [x] **LPIC-2**
+- [x] **CCNA**
+- [x] **AZ-104**
+
+### The Learning plan for 2026 will be like below,
+- [x] Feb 7 **AWS SAA**
+- [ ] Feb 28 **LPIC-3 Virtualiztion**
+- [ ] Mar 7 **TOEIC**
+- [ ] May **Terraform Associate**
+- [ ] Apr **Python**
+- [ ] May **CKA**
+- [ ] Jun **CKS**
+- [ ] Aug **AWS SAP**
 
 Welcome to my channel!
 This space documents my hands-on journey of building cloud infrastructure from the ground up.
