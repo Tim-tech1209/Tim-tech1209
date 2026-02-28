@@ -12,7 +12,7 @@
 
 ### The Learning plan for 2026 will be like below,
 - [x] Feb 7 **AWS SAA**
-- [ ] Feb 28 **LPIC-3 Virtualiztion**
+- [x] Feb 28 **LPIC-3 Virtualiztion**
 - [ ] Mar 7 **TOEIC**
 - [ ] May **Terraform Associate**
 - [ ] Apr **Python**
