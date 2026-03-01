@@ -14,11 +14,11 @@
 - [x] Feb 7 **AWS SAA**
 - [x] Feb 28 **LPIC-3 Virtualiztion**
 - [ ] Mar 7 **TOEIC**
-- [ ] May **Terraform Associate**
-- [ ] Apr **Python**
-- [ ] May **CKA**
-- [ ] Jun **CKS**
-- [ ] Aug **AWS SAP**
+- [ ] Apr **CKA** 
+- [ ] May **CKS**
+- [ ] Jun **AZ-400**
+- [ ] ??? **Terraform Associate**
+- [ ] ??? **Python**
 
 Welcome to my channel!
 This space documents my hands-on journey of building cloud infrastructure from the ground up.
