@@ -13,12 +13,12 @@
 ### The Learning plan for 2026 will be like below,
 - [x] Feb 7 **AWS SAA**
 - [x] Feb 28 **LPIC-3 Virtualiztion**
-- [ ] Mar 7 **TOEIC**
+- [x] Mar 7 **TOEIC**
 - [ ] Apr **CKA** 
 - [ ] May **CKS**
-- [ ] Jun **AZ-400**
-- [ ] ??? **Terraform Associate**
-- [ ] ??? **Python**
+- [ ] Jun mid **Terraform Associate**
+- [ ] Jun end **Python**
+- [ ] Aug **AZ-400**
 
 Welcome to my channel!
 This space documents my hands-on journey of building cloud infrastructure from the ground up.
