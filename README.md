@@ -1,33 +1,17 @@
-### Hi, this is Tim. 👋
+# Tim | Cloud Infrastructure Engineer ☁️
 
-##### 🔭 Currently Working On: Building and automating cloud infrastructure on Azure.
+Trilingual (English/Japanese/Chinese) IT professional transitioning deep customer support leadership into Cloud & DevOps engineering. Building, breaking, and automating infrastructures from the ground up.
 
-##### 🌱 Currently Learning: Certificate LPIC 305 & TOEIC.
+### ⚡ What I Do Here
+* **IaC & Cloud:** Developing reproducible infrastructure architectures primarily on Azure and AWS.
+* **K8s Ecosystem:** Hands-on clustering, configuration, and security hardening (CKA/CKS labs).
+* **Dev/Ops:** Writing a companion Python application to test infrastructure resilience and automate workflows.
 
-### This is what I have achieved last year:
+### 📜 Verified Credentials
+* **Linux/Infra:** LPIC-3 (Virtualization) | LPIC-2 | CCNA
+* **Cloud:** AWS SAA | Azure AZ-104
+* **Language:** TOEIC 945 | JLPT N1
 
-- [x] **LPIC-2**
-- [x] **CCNA**
-- [x] **AZ-104**
-
-### The Learning plan for 2026 will be like below,
-- [x] Feb 7 **AWS SAA**
-- [x] Feb 28 **LPIC-3 Virtualiztion**
-- [x] Mar 7 **TOEIC**
-- [ ] Apr **CKA** 
-- [ ] May **CKS**
-- [ ] Jun mid **Terraform Associate**
-- [ ] Jun end **Python**
-- [ ] Aug **AZ-400**
-
-Welcome to my channel!
-This space documents my hands-on journey of building cloud infrastructure from the ground up.
-I'm combining IaC with coding best practices to create reproducible and scalable solutions on Azure.
-
-To thoroughly test my infrastructure, I'm also developing a companion Python application.
-As a newcomer to coding, the initial iterations might be rough around the edges, but each project is a step forward.
-I'm committed to continuous learning and refinement.
-
-The goal is to evolve these projects into a comprehensive, portfolio-ready system that mirrors the architecture shown below.
-
-![app_demo](https://github.com/Tim-tech1209/Tim-tech1209/blob/main/images/test_python_app.drawio.png)
+### 🎯 Next Milestones
+* [ ] CI/CD Automation (AZ-400)
+* [ ] Production-grade Terraform modules refactoring
