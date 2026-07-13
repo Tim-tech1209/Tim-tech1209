@@ -1,4 +1,4 @@
-# Tim | Cloud Infrastructure Engineer ☁️
+# Jiabin Na | Cloud Infrastructure Engineer ☁️
 
 Trilingual (English/Japanese/Chinese) IT professional transitioning deep customer support leadership into Cloud & DevOps engineering. Building, breaking, and automating infrastructures from the ground up.
 
@@ -10,8 +10,10 @@ Trilingual (English/Japanese/Chinese) IT professional transitioning deep custome
 ### 📜 Verified Credentials
 * **Linux/Infra:** LPIC-3 (Virtualization) | LPIC-2 | CCNA
 * **Cloud:** AWS SAA | Azure AZ-104
+* **Containers:** CKA
 * **Language:** TOEIC 945 | JLPT N1
 
 ### 🎯 Next Milestones
+* [ ] Certified Kubernetes Security Specialist (CKS)
 * [ ] CI/CD Automation (AZ-400)
 * [ ] Production-grade Terraform modules refactoring
